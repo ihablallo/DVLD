@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld\\applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld_dataaccess\\licenseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld_dataaccess\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld_dataaccess\\clsinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld_dataaccess\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld_dataaccess\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld_dataaccess\\clscountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\hp\\desktop\\c# project\\dvld\\dvld_dataaccess\\applicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\login\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\C# Project\\Project\\DVLD_DataAccess\\clsDataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LicenseClass.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\LicenseClass.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\LicenseClass.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\LicenseClass.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\LicenseClass.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:24:06.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:24:05.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:24:03.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsInternationalLicense.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsInternationalLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsInternationalLicense.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsInternationalLicense.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsInternationalLicense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:24:02.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:24:01.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:24:01.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsCountryData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsCountryData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsCountryData.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\clsCountryData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsCountryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:24:00.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\ApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\ApplicationType.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD_DataAccess\\ApplicationType.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\ApplicationType.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:23:55.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEditApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeToolTip": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:23:45.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEditApplicationType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs [Design]",
+              "RelativeToolTip": "Applications\\Application Types\\frmEditApplicationType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:23:43.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:52:21.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:53:03.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\Project\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\Project\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\..\\Project\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:47:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Login\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Login\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Login\\frmLogin.Designer.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAhwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:35:49.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:35:43.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C# Project\\DVLD\\DVLD\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:35:23.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
